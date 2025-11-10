@@ -1,5 +1,5 @@
 module github.com/photostorm/gatt
 
-go 1.13
+go 1.24.0
 
-require golang.org/x/sys v0.31.0
+require golang.org/x/sys v0.38.0
